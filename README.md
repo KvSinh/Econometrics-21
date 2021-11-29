@@ -1,3 +1,3 @@
 # Econometrics-21
 
-Econometrics Methods Assignment- Delhi School of Economics
+Econometrics Methods Assignment- Delhi School of Economics- MA Economics
